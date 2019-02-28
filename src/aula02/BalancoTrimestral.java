@@ -1,7 +1,7 @@
 // Nome
 // RA: N0000
 
-package aula01;
+package aula02;
 
 public class BalancoTrimestral {
 
